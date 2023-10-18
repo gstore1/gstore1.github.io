@@ -7,7 +7,7 @@ Join our Discord here: https://discord.gg/KXSNzHuP9X
 
 # Other Projects
 
-AmogOS
-Kidstore (dead)
-GShop (gstore beta)
+AmogOS <br>
+Kidstore (dead) <br>
+GShop (gstore beta) <br>
 TheRoobicle (dead, cubing business)
